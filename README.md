@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+🌈 WaytoAGI - 2025 全球 AI 领袖思想图鉴
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. 项目简介
 
-## Available Scripts
+Atlas of AI Logic 2025 是由 WaytoAGI 社区发起的一个沉浸式智库交互项目。我们站在 2025 年的节点，通过对全球 109 位 顶级 AI 人物的思想建模，旨在揭示驱动智能浪潮背后的底层逻辑与未来权力格局。
 
-In the project directory, you can run:
+这不仅是一个名单，更是一个通过 Gemini 2.5 Flash 实时驱动的思想实验场。
 
-### `npm start`
+2. 核心人物版图 (109 位席位)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+我们根据影响力维度，将全球 AI 领航者划分为五个核心阵营：
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+领袖 (Leaders)：控制算力脉络与基建底座的行业巨头（如 Jensen Huang, Sam Altman）。
 
-### `npm test`
+创新者 (Innovators)：重塑叙事、设计与应用交互的先锋（如 Refik Anadol, Mike Krieger）。
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+塑造者 (Shapers)：制定政策、捍卫安全与伦理的守望者（如 Stuart Russell, Fei-Fei Li）。
 
-### `npm run build`
+思想家 (Thinkers)：定义智能终局与逻辑深度的学术先行者（如 Yoshua Bengio, Jeffrey Dean）。
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+中国 2025 (China 2025)：追加的本土力量，涵盖中国具身智能、算力底座与大模型生态的中坚人物（如 王兴兴, 周靖人, 张鹏）。
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. 三大创新交互功能
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+✨ 深度洞察 (Deep Insight)
 
-### `npm run eject`
+逻辑：基于领袖的背景经历与实时观点，利用 Gemini 的外推能力，极限推演该人物的技术路径在 2030 年 对全球文明产生的冲击。
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+体验：点击卡片即时生成一段 80 字以内的战略预判。
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+🤝 思想碰撞实验室 (Ideology Clash Lab)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+逻辑：通过 1 VS 1 模拟对垒视觉，选取两位立场或赛道不同的领袖。
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+体验：系统将模拟两者的真实人格进行 3 回合激辩，探讨 AGI 终局、生存风险等宏大命题，并给出最终的“激辩共识总结”。
 
-## Learn More
+💬 对话探讨 (Persona Chat)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+逻辑：集成 人格化 System Prompt。AI 将严格扮演特定领袖，遵循其特有的干练精英口吻。
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+原则：
 
-### Code Splitting
+节奏感：寒暄短促有力，专业问题入木三分。
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+零格式：严禁 Markdown 符号，还原最真实、纯粹的私人对谈感。
 
-### Analyzing the Bundle Size
+4. 技术规格
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+前端：React + Tailwind CSS (极简主义深色系设计)。
 
-### Making a Progressive Web App
+图标系统：Lucide-react + 动态生成的 SVG 抽象图标（Abstract Iconography）。
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+核心引擎：Gemini 2.5 Flash API。
 
-### Advanced Configuration
+安全机制：支持用户私有 API Key 设置，确保数据与隐私的即时性。
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+5. 关于 WaytoAGI
 
-### Deployment
+我们坚信，通往 AGI 的道路不仅是由代码铺就的，更是由思想的碰撞与逻辑的演化所驱动。
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Real Power & Pure Logic.
+WaytoAGI · 2025 Edition
